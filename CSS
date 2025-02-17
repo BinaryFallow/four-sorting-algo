@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3E1A63;
+    color: #FFC72C;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(212, 208, 208, 0.623);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(34, 34, 34);
+}
+
+body {
+        font-family: 'Inter', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #dbdbdb;
+        color: #FFC72C;
+}
+
+.algorithms {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #6c2080;
+    border-radius: 8px;
+    background-color: #5a287d;
+}
+
+code {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #979b85;
+    color: #696951;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+footer {
+    background-color: #5a287d; /* SFSU Purple */
+    color: #ffd700; /* SFSU Gold */
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+code {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #eee;
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+    white-space: pre-wrap;
+}
+
+footer {
+    background-color: #3E1A63; /* SFSU Purple */
+    color: #FFC72C; /* SFSU Gold */
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+}
