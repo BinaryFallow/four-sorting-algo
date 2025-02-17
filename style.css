@@ -26,6 +26,7 @@ body {
         padding: 0;
         background-color: #dbdbdb;
         color: #FFC72C;
+    
 }
 
 .algorithms {
@@ -54,6 +55,10 @@ footer {
     font-weight: bold;
     font-size: 16px;
 }
+
+
+
+
 
 code {
     font-family: 'Source Code Pro', monospace;
